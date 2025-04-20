@@ -27,7 +27,7 @@ A stylish and secure password generator built using Python and Tkinter. This too
 git clone https://github.com/yourusername/secure-password-generator.git
 cd secure-password-generator
 
-2. Run the App
+### 2. Run the App
 Make sure Python 3 is installed:
 python password_generator_gui.py
 
