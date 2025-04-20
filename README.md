@@ -39,7 +39,7 @@ pyinstaller --onefile --windowed password_generator_gui.py
 Your .exe file will appear in the dist/ folder.
 
 🖼️ Screenshot
-![App Screenshot](.png)
+![App Screenshot](Screenshot.png)
 
 📜 License
 This project is licensed under the MIT License — feel free to use, modify, and share it.
